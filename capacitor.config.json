@@ -1,0 +1,9 @@
+{
+  "appId": "com.unec.kabinet",
+  "appName": "UNEC Kabinet",
+  "webDir": "www",
+  "server": {
+    "url": "https://kabinet.unec.edu.az",
+    "cleartext": true
+  }
+}
